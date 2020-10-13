@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-![Sujan's github stats](https://github-readme-stats.vercel.app/api?username=sujanchegu&show_icons=true&theme=dark&count_private=true)
+![Sujan's github stats](https://github-readme-stats.vercel.app/api?username=sujanchegu&count_private=true&show_icons=true&theme=dark)
 
 <!--START_SECTION:activity-->
 
-<!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me on [![Twitter][1.2]][1] or  [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
