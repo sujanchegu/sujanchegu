@@ -3,11 +3,11 @@
 ![Sujan's github stats](https://github-readme-stats.vercel.app/api?username=sujanchegu&count_private=true&show_icons=true&theme=dark)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/pesos/browser-history/issues/22) in [pesos/browser-history](https://github.com/pesos/browser-history)
-2. 🗣 Commented on [#71](https://github.com/pesos/browser-history/issues/71) in [pesos/browser-history](https://github.com/pesos/browser-history)
-3. ❗️ Opened issue [#39](https://github.com/jamesgeorge007/github-activity-readme/issues/39) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#67](https://github.com/pesos/browser-history/issues/67) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. 🗣 Commented on [#51](https://github.com/pesos/browser-history/issues/51) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 🗣 Commented on [#39](https://github.com/jamesgeorge007/github-activity-readme/issues/39) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. ❗️ Closed issue [#39](https://github.com/jamesgeorge007/github-activity-readme/issues/39) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#22](https://github.com/pesos/browser-history/issues/22) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. 🗣 Commented on [#71](https://github.com/pesos/browser-history/issues/71) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. ❗️ Opened issue [#39](https://github.com/jamesgeorge007/github-activity-readme/issues/39) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 
