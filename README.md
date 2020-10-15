@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Sujan Chegu 👋
+
+I am pursuing my Undergrad Computer Science degree in PES University.
+
+All my passion is Math, Linux, C++ and Vim. Broadly, Security and Blockchains. 
 
 ![Sujan's github stats](https://github-readme-stats.vercel.app/api?username=sujanchegu&count_private=true&show_icons=true&theme=dark)
 
