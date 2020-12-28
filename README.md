@@ -7,11 +7,11 @@ All my passion is Math, Linux, C++ and Vim. Broadly, Security and Blockchains.
 ![Sujan's github stats](https://github-readme-stats.vercel.app/api?username=sujanchegu&count_private=true&show_icons=true&theme=dark)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4901](https://github.com/brave/brave-browser/issues/4901) in [brave/brave-browser](https://github.com/brave/brave-browser)
-2. ❗️ Opened issue [#1817](https://github.com/Guake/guake/issues/1817) in [Guake/guake](https://github.com/Guake/guake)
-3. 🗣 Commented on [#80](https://github.com/pesos/browser-history/issues/80) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. ❗️ Opened issue [#80](https://github.com/pesos/browser-history/issues/80) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. 🗣 Commented on [#39](https://github.com/jamesgeorge007/github-activity-readme/issues/39) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#1](https://github.com/sayan01/scripts/issues/1) in [sayan01/scripts](https://github.com/sayan01/scripts)
+2. 🗣 Commented on [#4901](https://github.com/brave/brave-browser/issues/4901) in [brave/brave-browser](https://github.com/brave/brave-browser)
+3. ❗️ Opened issue [#1817](https://github.com/Guake/guake/issues/1817) in [Guake/guake](https://github.com/Guake/guake)
+4. 🗣 Commented on [#80](https://github.com/pesos/browser-history/issues/80) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. ❗️ Opened issue [#80](https://github.com/pesos/browser-history/issues/80) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
 
 
