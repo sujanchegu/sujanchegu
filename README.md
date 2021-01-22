@@ -7,11 +7,11 @@ All my passion is Math, Linux, C++ and Vim. Broadly, Security and Blockchains.
 ![Sujan's github stats](https://github-readme-stats.vercel.app/api?username=sujanchegu&count_private=true&show_icons=true&theme=dark)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13672](https://github.com/brave/brave-browser/issues/13672) in [brave/brave-browser](https://github.com/brave/brave-browser)
-2. ❗️ Opened issue [#13672](https://github.com/brave/brave-browser/issues/13672) in [brave/brave-browser](https://github.com/brave/brave-browser)
-3. 🗣 Commented on [#247](https://github.com/aristocratos/bpytop/issues/247) in [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
-4. ❗️ Opened issue [#247](https://github.com/aristocratos/bpytop/issues/247) in [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
-5. 🗣 Commented on [#1](https://github.com/sayan01/scripts/issues/1) in [sayan01/scripts](https://github.com/sayan01/scripts)
+1. 🗣 Commented on [#6079](https://github.com/brave/brave-browser/issues/6079) in [brave/brave-browser](https://github.com/brave/brave-browser)
+2. ❗️ Closed issue [#13672](https://github.com/brave/brave-browser/issues/13672) in [brave/brave-browser](https://github.com/brave/brave-browser)
+3. ❗️ Opened issue [#13672](https://github.com/brave/brave-browser/issues/13672) in [brave/brave-browser](https://github.com/brave/brave-browser)
+4. 🗣 Commented on [#247](https://github.com/aristocratos/bpytop/issues/247) in [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
+5. ❗️ Opened issue [#247](https://github.com/aristocratos/bpytop/issues/247) in [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
 <!--END_SECTION:activity-->
 
 
