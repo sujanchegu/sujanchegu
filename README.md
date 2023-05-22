@@ -24,3 +24,5 @@ You can find me on [Linkedin][2] :)
 <!-- Links to your social media accounts -->
 
 [2]: https://www.linkedin.com/in/sujan-chegu-b57732192/
+
+![](https://komarev.com/ghpvc/?username=sujanchegu) 
